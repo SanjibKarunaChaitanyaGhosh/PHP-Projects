@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 350px;
+    margin: 100px auto;
+    padding: 20px;
+    background: white;
+}
+
+input, textarea, button {
+    width: 100%;
+    margin: 8px 0;
+    padding: 10px;
+}
